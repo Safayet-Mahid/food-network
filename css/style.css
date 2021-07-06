@@ -90,9 +90,10 @@ header {
   background-position: center;
   background-size: cover;
   display: flex;
+  gap: 7em;
   justify-content: space-around;
   align-items: center;
-  padding: 3em 19em 0;
+  padding: 4em 15em 0;
 }
 .about-text h2 {
   font-size: 2em;
